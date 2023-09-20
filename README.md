@@ -1,8 +1,5 @@
 # Underwater-Plastic-Detection-and-Cleaning-using-Computer-Vision-and-Deep-Learning
 
-An Underwater Autonomous Vehicle for underwater garbage detection, collection and cleaning using Computer Vision, Deep Learning and IOT. It uses tflite model for garbage detection with almost 80% accuracy.
-The model is trained on 1500 images of 5 classes namely straws, bottle, cans, bags and cups.
-
 The designed system would be able to detect the plastic, calculate distance using triangulation and OpenCV and then collect the detected garbage using Robotic Arm.
 
 The collected garbage would be compressed in a compressor attached and would be collected in an attached net.
